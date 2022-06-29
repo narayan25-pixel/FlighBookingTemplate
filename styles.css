@@ -1,0 +1,25 @@
+.headerParagraph {
+  display: flex;
+  justify-content: center;
+  padding: 4rem;
+}
+
+.backgroundClass {
+  /* height: 65vh; */
+}
+
+.headerClass {
+  background-image: url("./images/pexels-vincent-gerbouin-1174732.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.destinationClass {
+  justify-content: space-between;
+}
+.landscapeClass {
+  height: auto;
+}
+ul {
+  list-style-type: none;
+}
